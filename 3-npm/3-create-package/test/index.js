@@ -1,4 +1,4 @@
-const print = require('frame-print');
+const print = require('jasondwilson-frame-print-test');
 
 print('Hello NPM!');
 
